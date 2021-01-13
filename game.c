@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main()
+int game()
 {
-	printf("game over");
+	printf("game over\n");
 	return 0;
 }
